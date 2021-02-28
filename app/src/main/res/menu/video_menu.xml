@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Srinagar" android:id="@+id/srinagar"/>
+    <item android:title="Manali" android:id="@+id/manali"/>
+    <item android:title="Himachal" android:id="@+id/himachal"/>
+    <item android:title="Ladakh" android:id="@+id/ladakh"/>
+    <item android:title="Shimla" android:id="@+id/shimla"/>
+    <item android:title="Huwai beach" android:id="@+id/huwaibeach"/>
+    <item android:title="Dharamsala" android:id="@+id/dharamsala"/>
+    <item android:title="Switzerland " android:id="@+id/switzerland"/>
+    <item android:title="Spiti" android:id="@+id/spiti"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</menu>
